@@ -33,7 +33,7 @@
 ## 4. Google AI Studio – New Chat Prompts
 
 Google AI Studio 的對話式界面，支援系統提示（system instructions）進階設置，可建構角色設定（如「你是某角色」）、調整語氣與回應長度，是 Gemini 模型提示工程的重要工具。
-[ai.google.dev](https://ai.google.dev)
+[ai.google.dev](https://aistudio.google.com/)
 
 ## 5. ChatGPT (chatgpt.com)
 
